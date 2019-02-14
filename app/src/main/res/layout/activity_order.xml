@@ -150,7 +150,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="onRadioButtonClicked"
-            android:text="@string/same_day_messenger_service" />
+            android:text="@string/same_day_messenger_service"
+            android:checked="true"/>
 
         <RadioButton
             android:id="@+id/nextday"

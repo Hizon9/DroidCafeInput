@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Feb 14 17:42:57 ICT 2019
+#Thu Feb 14 17:48:00 ICT 2019
 2.base=D\:\\ITHB\\Semester 6\\Praktikum Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
 5.set=DEX
 0.path=classes.dex
