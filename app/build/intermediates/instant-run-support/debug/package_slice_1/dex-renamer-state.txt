@@ -1,0 +1,4 @@
+#Thu Feb 14 17:10:35 ICT 2019
+base.0=D\:\\ITHB\\Semester 6\\Praktikum Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
